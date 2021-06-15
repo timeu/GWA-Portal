@@ -39,7 +39,7 @@
         <hibernate-validator.version>5.1.2.Final</hibernate-validator.version>
         <javax.validation.version>1.1.0.Final</javax.validation.version>
         <slf4j.version>1.7.16</slf4j.version>
-        <logback.version>1.1.5</logback.version>
+        <logback.version>1.2.0</logback.version>
         <jetty.version>9.4.28.v20200408</jetty.version>
         <errai.version>3.2.2.Final</errai.version>
         <javassist.version>3.20.0-GA</javassist.version>
