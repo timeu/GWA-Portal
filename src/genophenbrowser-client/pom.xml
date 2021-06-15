@@ -21,7 +21,7 @@
         <gwt.genParam>false</gwt.genParam>
         <!-- keep in sync with genophenbrowser-server -->
         <runTarget>http://localhost:8080/</runTarget>
-        <hibernate-validator.version>4.1.0.Final</hibernate-validator.version>
+        <hibernate-validator.version>5.3.5.Final</hibernate-validator.version>
         <javax.validation.version>1.0.0.GA</javax.validation.version>
         <jsr305.version>3.0.1</jsr305.version>
         <!-- required until https://github.com/ArcBees/GWTP/issues/744 is fixed -->
